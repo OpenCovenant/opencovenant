@@ -1,7 +1,7 @@
 ## OpenCovenant - environment fostering the open-source vision
 
 Welcome to the OpenCovenant community! We are pleased to be hosting the
-[**penda**](https://github.com/OpenCovenant/quill) project. If you are new to GitHub, please check
+[**penda**](https://github.com/OpenCovenant/ink) project. If you are new to GitHub, please check
 the [Quickstart](https://docs.github.com/en/get-started/quickstart) page. We want to draw attention to
 the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) set up for OpenCovenant (Besëlidhja e Hapur), as it outlines important aspects
 of the interactions in this space.
